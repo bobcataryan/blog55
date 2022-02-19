@@ -1,0 +1,39 @@
+body
+{
+background-size: cover;
+}
+.heading{
+    text-align: left;
+    width:100%;
+    
+}
+.heading button{
+    float: right;
+    border: 2px;
+    border-color: turquoise;
+    border-style:solid;
+}
+
+.heading h3{
+display: inline;
+}
+#bigImage{
+    width: 100%;
+}
+
+#credits{
+    background-color: gray;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    bottom: 0px;
+    position: fixed;
+    margin-bottom: 0px;
+}
+.images{
+    display: inline-block;
+    width: 500px;
+}
+.modal-dialog{
+    width: 90%;
+}
